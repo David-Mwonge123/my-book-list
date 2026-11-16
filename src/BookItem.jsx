@@ -10,7 +10,7 @@ function BookItem({ book }) {
             {book.genre}
           </span>
           <span className="text-sm font-bold text-yellow-500">
-            &#9834; {book.rating}
+            &#9733; {book.rating}
           </span>
         </div>
         <h2 className="font-bold text-lg mt-3 leading-tight">{book.title}</h2>
