@@ -6,7 +6,7 @@ function App() {
       <nav className="bg-white shadow-sm sticky top-0">
         <div className="max-w-6xl mx-auto px-5 py-4 flex items-center justify-between">
           <h1 className="text-xl font-extrabold">
-            My<span className="text-emerald-600">Books</span>
+            My<span className="text-yellow-600">Books</span>
           </h1>
           <span className="text-sm text-slate-500">My Favourite Reads</span>
         </div>
